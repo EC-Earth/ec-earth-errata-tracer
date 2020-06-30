@@ -13,7 +13,7 @@ At this `ec-earth-errata-tracer` platform we will open issues and trace them by 
 * issue confirmed | issue not confirmed
 * ES-DOC erratum created
 * wil be fixed | won't be fixed
-* implementing a fix
+* implementing fix
 * fix ready
 * fix applied
 * ES-DOC erratum closed
