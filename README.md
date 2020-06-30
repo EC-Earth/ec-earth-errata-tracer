@@ -8,7 +8,7 @@ EC-Earth3 CMIP6 output issues which are related to [ece2cmor3](https://github.co
 
 This `ec-earth-errata-tracer` platform can be used to report any EC-Earth3 CMIP6 output issue encountered on the ESGF nodes immediately and to trace the status. Partly this will concern links to the `cmor-fixer` and to `ece2cmor3` which are both public assesible, at the other hand it will refer to EC-Earth issues on the non-public EC-Earth portal which is only open to the EC-Earth community.
 
-At this `ec-earth-errata-tracer` platform we will open issues and trace them by a certain status:
+At this `ec-earth-errata-tracer` platform we will open issues and trace them by a certain status (see [procedure issue handling](https://github.com/EC-Earth/ec-earth-errata-tracer/wiki/procedure-issue-handling) wiki page):
 * new reported
 * issue confirmed | issue not confirmed
 * ES-DOC erratum created
